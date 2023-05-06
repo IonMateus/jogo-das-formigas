@@ -8,7 +8,7 @@ https://ionmateus.github.io/jogo-das-formigas/
 
 ## Dados
 * Projeto em equipe
-* Criado em 2022, em menos de 6 horas.
+* Criado em 2022
 * Feito com JavaScript
 
 ## Contribuidores
